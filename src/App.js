@@ -28,7 +28,7 @@ export default function App() {
           </a>{" "}
           and{" "}
           <a
-            href="https://final-project-react-antje.netlify.app/"
+            href="https://dictionary-project-l6gf.onrender.com/"
             target="_blank"
             rel="noopener noreferrer"
           >
