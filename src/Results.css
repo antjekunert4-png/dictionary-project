@@ -1,7 +1,5 @@
-.Result h1 {
-  font-style: normal;
-  font-weight: 600;
+.Results h2 {
   font-size: 36px;
-  line-height: 43px;
-  color: #000000;
+  font-weight: bold;
+  line-height: 1.5;
 }
