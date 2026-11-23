@@ -9,7 +9,7 @@ export default function App() {
         <main>
           <DictionaryApp />
         </main>
-        <footer>
+        <footer className="App-footer">
           This project was coded by{" "}
           <a
             href="https://github.com/antjekunert4-png"
